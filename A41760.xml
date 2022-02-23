@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Grand-jurors of the City of Bristoll, their address to the general sessions of the peace there assembled wherein are shewed their reasons for the putting the laws in due execution against the phanaticks and papists. And likewise shewing the fears and jealousies that they are daily in, if the same be neglected. Humbly offered to consideration.</title>
+            <author>Bristol (England). Grand Jury.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41760</idno>
+            <idno type="STC">Wing G1501</idno>
+            <idno type="STC">ESTC R218338</idno>
+            <idno type="EEBO-CITATION">99829942</idno>
+            <idno type="PROQUEST">99829942</idno>
+            <idno type="VID">34389</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41760)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34389)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2030:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Grand-jurors of the City of Bristoll, their address to the general sessions of the peace there assembled wherein are shewed their reasons for the putting the laws in due execution against the phanaticks and papists. And likewise shewing the fears and jealousies that they are daily in, if the same be neglected. Humbly offered to consideration.</title>
+                  <author>Bristol (England). Grand Jury.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] [.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed with allowance, 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication conjectured by cataloger.</note>
+                  <note>Caption title on p. 1 reads: Civit. Bristoll. Epiphany sessions, 1674. ..</note>
+                  <note>Signed at end by Richard Daw, and 18 others.</note>
+                  <note>Cropped at head, affecting page numbers; final leaf torn.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+               <term>Bristol (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34389:1" rendition="simple:additions"/>
+            <p>GRAND-JURORS OF THE City of Briſtoll, THEIR ADDRESS To the General Seſſions of the Peace, There Aſſembled: WHEREIN Are ſhewed their Reaſons for the put<g ref="char:EOLhyphen"/>ting the Laws in due Execution againſt the Phanaticks and Papiſts.</p>
+            <p>And likewiſe ſhewing The Fears and Jealouſies that they are daily in, if the ſame be neglected.</p>
+            <p>Humbly offered to Conſideration.</p>
+            <p>Printed with Allowance, 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34389:2" rendition="simple:additions"/>
+            <head>
+               <hi>Civit. Briſtoll.</hi> Epiphany Seſſions, 1674.</head>
+            <head type="sub">To the Right Worſhipful, the <hi>Mayor</hi> and <hi>Aldermen,</hi> His Majesties Justices of the Peace of and for this City and County, in this their General-Seſſion s of the Peace now aſſembled.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E the Grand-Jurors for the body of this City, be<g ref="char:EOLhyphen"/>ing moved with a due ſenſe of our Dutyes to<g ref="char:EOLhyphen"/>wards Almighty God, our zeal for the Church, and the Honour and Intereſt of the true Refor<g ref="char:EOLhyphen"/>med Religion (as being Chriſtians) Our Loy<g ref="char:EOLhyphen"/>alty and Allegiance towards our Soveraign Lord the King, and the peace and proſperity of His Majeſties Kingdoms (as being His Subjects) and eſpecially of this City, whereof we are ſome of his Natives, all Citizens, Burgeſſes, and Inhabitants, And conſidering the ſacred and ſolemn Obligation, not only of the Oath by us taken when we entred upon this Service, together with the charge and directions given us by this Court, but alſo of our Oaths of Burgeſſes, Do humbly crave leave, as hath been uſual, to preſent and recommend to this Court, and to every of your Worſhips in particular, our ſad apprehenſions of the preſent State of this City, ſo far as His Maje<g ref="char:EOLhyphen"/>ſties Peace, relating to the Government, therein, both Eccleſiaſtical and Civil, is concerned. Hoping your Lordſhips will not think it improper for us, or beſides our preſent Duty, to give you an ac<g ref="char:EOLhyphen"/>count of the true reaſons and occaſions of thoſe great Diviſions, Diſturbances, Tumults, Routs, Riots, and Breaches of the Kings Peace which have been lately amongſt us; and have raiſed juſt
+<pb facs="tcp:34389:3"/>cauſe of fears in all His Majeſties Loyal and Intereſſed Subjects with<g ref="char:EOLhyphen"/>in this City, That if theſe diſorders be not prevented, and the Offenders therein puniſhed by your Worſhips ſpeedy care and activity in putting the Laws in Execution, they will end in the final ruine and deſolation of this City, and probably in a new Rebellion, (which God forbid) For we ſee by experience, that the impunity of Offenders, and connivance at their evil practices, ſerves only to encourage them in the diſobedience of good and wholſom Laws.</p>
+            <p>The Perſons of ſo many of the Offenders, and the matter of their ſeveral Crimes and Offences (as we have had knowledge thereof) are ſet forth in the particular Indictments and Preſentments againſt them hereto annexed, which if informal, or defective, for want of be<g ref="char:EOLhyphen"/>ing in Latin, by reaſon of falſe Latin or otherwiſe; we humbly de<g ref="char:EOLhyphen"/>ſire ſuch defect or want of Form, may be ſupplyed by order of this Court.</p>
+            <p>The greateſt number of our Indictments, and Peſentments, are againſt Schiſmatical, Seditious, and Diſloyal Seducers and Sectaries, who are the very Peſts and Fire-brands of our City, and the princi<g ref="char:EOLhyphen"/>pal (if not only) diſturbers and breakers of the Peace therein. The heads of theſe Seducers are divers Strangers, who, pretending themſelves to be Miniſters of Jeſus Chriſt (but in truth were never in Holy Orders, as we believe) are lately come to ſettle in this City, and have made it their buſineſs to impoſe Doctrines of Diſobedience on the weak underſtandings of the ignorant and credulous Multitude, to Form the People into ſeveral Parties and Factions, to Seduce them from their due Allegiance to His Majeſty, and to withdraw them from the Churches, and the publick Worſhip and Service of God by Law Eſtabliſhed (which theſe Impoſtors call <hi>Antichriſtian</hi>) unto unlaw<g ref="char:EOLhyphen"/>ful Aſſemblies and Conventicles, ſet up by themſelves (which they call Churches) and to unite them into ſeveral Confederacies, to ſe<g ref="char:EOLhyphen"/>parate from the Church, and forſake their lawful Paſtors and Mini<g ref="char:EOLhyphen"/>ſters (who are by them called Dogs) and to ſubſtract from them their due maintenance, and apply it to theſe Seducers (who, at their Conventicles, ſtile theſe kind of practices, Holy Combinatious) And at theſe unlawful Aſſemblies and Conventicles, theſe Seducers have taken on themſelves, of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir own Authority, to Pray and Preach as they liſt, moſt commonly on Lords-Days, at times of Divine Service, and at other times, whereby they have ſo encreaſed the number of Diſ<g ref="char:EOLhyphen"/>loyal, Antimonarchical &amp; Seditious Sectaries amongſt us; and have ſo tamper'd with too many others of the ignorant &amp; ill-principled Mul<g ref="char:EOLhyphen"/>titude, &amp; thoſe of the younger ſort, and have by their Doctrin &amp; Evil
+<pb facs="tcp:34389:3" rendition="simple:additions"/>Examples, ſo inveighled them into Diſobedience, and contempt of the Laws and Conſtitutions of this Kingdom, both Eccleſiaſtical and Ci<g ref="char:EOLhyphen"/>vil, and the Government and Magiſtrates of this City, that unleſs your Worſhips ſhall effectually exert your Authority for the reſtrain<g ref="char:EOLhyphen"/>ing and reforming of theſe, and other ſuch like their licencious pro<g ref="char:EOLhyphen"/>proceedings, it may juſtly be feared, by the ſad experience of the late troubleſom times, that (if it lye in theſe mens power) not only the Peace and Safety of this City, but alſo a total ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>verſion of the preſent Eſtabliſhments, both in Church and State, will inevitably en<g ref="char:EOLhyphen"/>ſue: Which is the more evident, by their ſhutting the Doors of a Con<g ref="char:EOLhyphen"/>venticle in the Caſtle, againſt ſeveral Juſtices of the Peace, who went thither in Perſon, with the Lord Biſhop, to diſperſe it, and denying them entrance, till they had called Conſtables to break the Doors. By their raiſing Tumults and Riots in the principal parts of the City on every light occaſion. By their purſuing with Staves, and aſ<g ref="char:EOLhyphen"/>ſaulting by throwing Stones at divers of thoſe, who are bound in Duty, or are commanded to go to their Conventicles, in order to their Suppreſſion, or the Conviction of ſuch as they find there, with ſuch great numbers, that many ſober and loyal People are in great Terror and Dread of ſudden inſurrections. To ſo great a heigth of Inſolency are theſe Seducers and Sectaries now grown, as not only to frequent Conventicles, but alſo to challenge of the Magiſtrates Tolle<g ref="char:EOLhyphen"/>ration and Allowance for Congregating them without controll, when, where, and as often as they pleaſe, whereunto they draw great num<g ref="char:EOLhyphen"/>bers of People, deſigning thereby, to encreaſe and ſtrengthen their party, and to appear the more formidable. Inſomuch, that within this City, to be reputed Loyal, begins now to be accounted matter of ſcandal and reproach; and ſchiſm, ſedition, and faction, hath the boldneſs to out-face Authority.</p>
+            <p>And we cannot but take notice, That ſome men, who were very active againſt His late Majeſty (of glorious memory) in our late Ci<g ref="char:EOLhyphen"/>vil Wars; and others, who owe their Lives and Eſtates to His now Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſties Clemency and Acts of Indempnity, are now the chief Countenancers and Supporters of theſe ſchiſmatical Preachers in their ſeditious practices; and are ſo far from being obliged to Subjection and Obedience to the Laws, by His Majeſties Grace and Goodneſs, that they are thereby encouraged to be the more Diſobedient and Diſloyal, and to ſeduce others to be ſo alſo. So that this City, which was formerly famous for true Religion and Loyalty, and for unity within it ſelf, and natural love and amity, is now rent and torn with Schiſm and Faction: And unleſs there be effectual care taken by your Worſhips, for the exterminating hence theſe kind of Impo<g ref="char:EOLhyphen"/>ſtors
+<pb facs="tcp:34389:4"/>and Seducers, and for ſuppreſſing of their Conventicles, by putting the Laws to that purpoſe in due Execution, Our City will ſhortly become a Sanctuary for Diſloyal and Turbulent Spirits, and contemners and breakers of all Laws and civil Sanctions, Our Religi<g ref="char:EOLhyphen"/>on and Government will be proſtituted to the Humors and Luſts of unreaſonable men, to be obeyed or diſobeyed at their Wills and Pleaſures, and the Authority of our Magiſtrates trampled under the Feet of ſuch as deſpiſe Dominion, and ſpeak Evil of Dignities, which muſt needs introduce remedileſs diſorder and confuſion; and may at laſt, for ought we know, mould the Vulgar into a willingneſs to embrace Popery.</p>
+            <p>But we are heartily glad to ſee the ready and active concurrence of your Worſhips, with the Right Reverend Father in God the Lord Biſhop, in the preventing of thoſe growing miſchiefs, and humbly entreat both your Worſhips and his Lordſhip, to perſiſt unanimouſly in ſo neceſſary a work. And we have reaſon to rejoyce and bleſs God, for the great care and vigilance of ſo good and faithful a Shepherd, as his Lordſhip is, over this part of his Flock, and for his indefatiga<g ref="char:EOLhyphen"/>ble care and endeavours to ſecure it from being invaded and devou<g ref="char:EOLhyphen"/>red, hoping that all the hard cenſures he hath; or ſhall meet with; from any Seducers Sectaries, or Diſloyal Perſons, or their Favourers, will not at all diſcourage him in the proſecution of ſo honourable and worthy an undertaking.</p>
+            <p>And we do hereby engage, in the name of our ſelves, and all others the Loyal Citizens, Burgeſſes, and Inhabitants of this City, that we are, and ſhall be ready, to ſacrifice our Lives and Fortunes with you in defence of His Majeſties Perſon, Crown, and Dignity, and the Eſtabliſhed Laws.</p>
+            <p>And Laſtly, We thank your Worſhips care for the preſervation of the Liberties and Priviledges of this City, in not admitting any to be freed, without their firſt taking the Oath of a Burgeſs, which care we humbly deſire may be continued.</p>
+            <p>And we do here humbly preſent to the Right Worſhipful Sir <hi>John Knight,</hi> now preſent in Court, as being one of our Repreſentatives in Parliament, as well as one of His Majeſties Juſtices of the Peace for this City and County, theſe our common grievances and complaints to be by him communicated to the Right Worſhipful Sir <hi>Humphrey Hooke</hi> Knight, the other of our Repreſentatives, and the Collonel of the <hi>Militia</hi> and <hi>Train'd Bands</hi> for this City; and do make it our unani<g ref="char:EOLhyphen"/>mous
+<pb facs="tcp:34389:4" rendition="simple:additions"/>requeſt unto them both, to endeavour the redreſſing the ſame, and to ſecure the Peace of this City, by all the ways and means they can, according to their beſt prudence and diſcretion, againſt the grow wing evils and dangers, ariſing from the practices of ſuch as are Diſ<g ref="char:EOLhyphen"/>loyal Obſtinate, and Seditious, That ſo true Peace, Unity, and Charity, may be reſtored and re-eſtabliſhed amongſt us. To which end, we all heartily pray,</p>
+            <closer>God Save the King.
+<signed>
+                  <list>
+                     <item>
+                        <hi>Richard Daw.</hi>
+                     </item>
+                     <item>
+                        <hi>John Napper.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Wellichapp.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Clifford.</hi>
+                     </item>
+                     <item>
+                        <hi>John Eſtwick.</hi>
+                     </item>
+                     <item>
+                        <hi>John Whiting.</hi>
+                     </item>
+                     <item>
+                        <hi>William Buſh.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Rogers.</hi>
+                     </item>
+                     <item>
+                        <hi>John Minor.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Smith.</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Gunter.</hi>
+                     </item>
+                     <item>
+                        <hi>John Warren.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Davidge.</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Steward.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Greene.</hi>
+                     </item>
+                     <item>
+                        <hi>Ambroſe Hancock.</hi>
+                     </item>
+                     <item>
+                        <hi>Edm. Arundell.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Thorne.</hi>
+                     </item>
+                     <item>
+                        <hi>George Harts.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
